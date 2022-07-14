@@ -1,12 +1,18 @@
 # CodersFakeroot
 <h2>simple fake root tool for termux</h2>
-
-. apt upgrade && apt update
-. pkg install bash
-. git clone https://github.com/dan998/CodersFakeroot
-. cd CodersFakeroot
-. ls
-. bash Root.sh
+<p></p>
+<b>
+<h3>apt upgrade && apt update</h3>
+<p></p>
+<h3>pkg install bash</h3>
+<p></p>
+<h3> git clone https://github.com/dan998/CodersFakeroot</>
+<p></p>
+<h3>cd CodersFakeroot</h3>
+<p></p>
+<h3> ls</h3>
+<p></p>
+<h3> bash Root.sh</h3>
 
 <b>
 <h1 style="color: #ff0000">Coding Family</h1>
