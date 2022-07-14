@@ -1,5 +1,5 @@
 # CodersFakeroot
-<h2>simple fake root tool for termux</h2>
+<h2 style="color:red">simple fake root tool for termux</h2>
 <p></p>
 <b>
 <h3>apt upgrade && apt update</h3>
