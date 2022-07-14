@@ -16,7 +16,7 @@
 
 <b>
 <h1 style="color: #ff0000">Coding Family</h1>
-<h2> CONTACT ME TO MAKE SUGGESTION OR REQUEST</h2>
+<h2> CONTACT ME TO MAKE SUGGESTIONS OR REQUESTS</h2>
 <p style="background-color:red">Created by Dan Maffia</p>
 <a href="https://t.me/CyberTechBlackhack">Contact me</a>
 <p></p>
